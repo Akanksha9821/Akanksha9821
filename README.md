@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akanksha9821
-- 👀 I’m interested in C,C++, Python, and Java Programming 
+- 👀 I’m interested in C,C++, Python, and Java Programming, and VLSI
 - 🌱 I’m currently learning Electronics and communication
 - 💞️ I’m looking to collaborate on Web development 
 - 😄 Pronouns: She/her
