@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Akanksha9821
-- 👀 I’m interested in C,C++, Python, and Java Programming
+- Hi, I’m @Akanksha9821
+- I’m interested in Data Science and Web Development
+- Proficient in Python and Java 
 
-- 💞️ I’m looking to collaborate on Web development and app development.
-- 😄 Pronouns: She/her
 
 
 <!---
